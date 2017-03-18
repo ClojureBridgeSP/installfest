@@ -10,6 +10,6 @@ Welcome to the ClojureBridge Boston getting started page!
 
 ### Copyright and License
 
-Copyright © 2015 Tom Marble, 2016 ClojureBridge Boston 
+Copyright © 2015 Tom Marble, 2016-2017 ClojureBridge Boston 
 
 Licensed under the [MIT](http://opensource.org/licenses/MIT) [LICENSE](LICENSE)
