@@ -3,7 +3,7 @@ ClojureBridge Installfest: Preparativos
 
 ## Requisitos
 
-Todos na oficina devem ter um laptop. Com sistema operacional Windows 7 ou superior, OS X 10.7 (Lion) ou acima ou Linux.
+Todos na oficina devem ter um laptop com sistema operacional Windows 7 ou superior, OS X 10.7 (Lion) ou acima ou Linux.
 
 ## O que vamos instalar
 
