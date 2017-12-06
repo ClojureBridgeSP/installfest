@@ -1,15 +1,28 @@
-# ClojureBridge Boston - October 2016
+ClojureBridge Installfest: Preparativos
+===========================
 
-Welcome to the ClojureBridge Boston getting started page!
+## Requisitos
 
-* [Installfest](docs/setup.md) *Friday instructions for getting ready*
-* [Track 1: turtles](https://github.com/clojurebridge-boston/track1-turtles)
-* [Track 2: Clojure koans](https://github.com/clojurebridge-boston/track2-functional)
-* [Track 2, another option: writing and breaking simple ciphers](https://github.com/clojurebridge-boston/track2-ciphers)
-* [Track 2, additional: drawing in Quil](https://github.com/clojurebridge-boston/drawing)
+Todos na oficina devem ter um laptop. Se estiver executando o Windows, ele deve estar executando o Windows 7 ou superior. Se estiver executando o OS X, ele deve estar executando 10.7 (Lion) ou acima. Se estiver executando o Linux, vai estar tudo ok.
 
-### Copyright and License
+## O que vamos instalar
 
-Copyright © 2015 Tom Marble, 2016-2017 ClojureBridge Boston 
+### Todos os participantes:
 
-Licensed under the [MIT](http://opensource.org/licenses/MIT) [LICENSE](LICENSE)
+Ao final dessas instruções você terá instalado:
+
+* Java, "virtual machine" que é a base para o Clojure.
+* [IntelliJ Community edition](https://www.jetbrains.com/idea/download/), IDE para Clojure (e outras linguagens) com o plugin [Cursive](https://cursive-ide.com/userguide/) (30 dias de trial)
+* [Leiningen](https://leiningen.org)
+
+## Instruções por sistema operacional
+
+Choose your operating system to get setup instructions:
+
+* [OS X](setup_osx.md)
+* [Windows 7](setup_win7.md)
+* [Windows 8 or higher](setup_win8.md)
+* [Ubuntu Linux](setup_ubuntu.md)
+
+Depois das instalações, faça o setup do projeto para garantir que seu ambiente está pronto
+* [Setup do Projeto](https://github.com/ClojureBridgeSP/ciphers/blob/master/docs/setup.md
